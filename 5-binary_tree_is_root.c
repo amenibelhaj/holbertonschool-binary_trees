@@ -12,4 +12,5 @@ return (0);
 
 if (node->parent == NULL)
 return (1);
+return (0);
 }
